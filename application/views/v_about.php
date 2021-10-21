@@ -8,16 +8,16 @@
     <br>
     <h4>Alamat</h4>
     <ul type="none">
-        <li> Jalan Ciledug Raya No. 168 Pesanggrahan</li>
+        <li> Desa Tumiyang, Kecamatan Kebasen, Kabupaten Purwokerto</li>
     </ul>
     
     <h4>Tempat Lahir</h4>
     <ul type="none">
-        <li>Cirebon</li>
+        <li>Tangerang Selatan</li>
     </ul>
-    <h4>Olah Raga Favorit</h4>
+    <h4>Olahraga Favorit</h4>
     <ul type="square">
         <li>Bulutangkis</li>
-        <li>Catur</li>
+        <li>Renang</li>
     </ul>
 </section>
